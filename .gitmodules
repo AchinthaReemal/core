@@ -4,3 +4,6 @@
 [submodule "SinminREST"]
 	path = SinminREST
 	url = https://github.com/DImuthuUpe/SinminREST
+[submodule "CrawlerControllerWeb"]
+	path = CrawlerControllerWeb
+	url = https://github.com/DImuthuUpe/CrawlerControllerWeb
