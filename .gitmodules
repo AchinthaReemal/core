@@ -1,3 +1,6 @@
 [submodule "DBFeederMvn"]
 	path = DBFeederMvn
 	url = https://github.com/DImuthuUpe/DBFeederMvn
+[submodule "SinminREST"]
+	path = SinminREST
+	url = https://github.com/DImuthuUpe/SinminREST
