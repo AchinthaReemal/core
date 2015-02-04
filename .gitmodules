@@ -19,3 +19,6 @@
 [submodule "corpus.sinhala.tools"]
 	path = corpus.sinhala.tools
 	url = https://github.com/madurangasiriwardena/corpus.sinhala.tools
+[submodule "ocr-full-stop-predictor"]
+	path = ocr-full-stop-predictor
+	url = https://github.com/lasandun/ocr-full-stop-predictor
