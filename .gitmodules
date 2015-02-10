@@ -22,3 +22,6 @@
 [submodule "ocr-full-stop-predictor"]
 	path = ocr-full-stop-predictor
 	url = https://github.com/lasandun/ocr-full-stop-predictor
+[submodule "corpus.sinhala.wildcard.search"]
+	path = corpus.sinhala.wildcard.search
+	url = https://github.com/lasandun/corpus.sinhala.wildcard.search
