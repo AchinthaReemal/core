@@ -22,3 +22,6 @@
 [submodule "corpus.sinhala.wildcard.search"]
 	path = corpus.sinhala.wildcard.search
 	url = https://github.com/lasandun/corpus.sinhala.wildcard.search
+[submodule "sinmin-web"]
+	path = sinmin-web
+	url = https://github.com/madurangasiriwardena/sinmin-web
