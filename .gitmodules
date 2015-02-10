@@ -7,9 +7,6 @@
 [submodule "CrawlerControllerWeb"]
 	path = CrawlerControllerWeb
 	url = https://github.com/DImuthuUpe/CrawlerControllerWeb
-[submodule "Corpus-Web"]
-	path = Corpus-Web
-	url = https://github.com/DImuthuUpe/Corpus-Web
 [submodule "corpus.sinhala.crawler"]
 	path = corpus.sinhala.crawler
 	url = https://github.com/madurangasiriwardena/corpus.sinhala.crawler
